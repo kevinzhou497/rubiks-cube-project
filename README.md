@@ -6,6 +6,8 @@
 
 Requires support for OpenGL 3.3 or above.
 
+(This project was worked on by myself and 3 team members from Cornell's CS 3110 course)
+
 # Controls
 
 ## Window UI
